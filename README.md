@@ -29,10 +29,6 @@ When you creates a new issue, you can select a issue template:
 
 ![alt text](create_issue.png "Create an issue")
 
-## Contact
-
-If you have questions or add new templates, you can open a [discussion](https://github.com/jmeiracorbal/issue_templates/issues), open a pull request o send me an [email](jmeiracorbal@gmail.com).
-
 ## License
 
 This project is released under the [MIT License](LICENSE). Feel free to use, modify and distribute the templates with or without attribution.
